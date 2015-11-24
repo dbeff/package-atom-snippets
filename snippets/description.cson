@@ -1,4 +1,4 @@
 '.source.json':
-  'package.json':
-    'prefix':'package description'
-    'body': '"description":"${1:value}"'
+    'package.json':
+        'prefix':'package description'
+        'body': '"description":"${1:}"'
