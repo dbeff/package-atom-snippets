@@ -1,7 +1,7 @@
 {
   "name": "package-atom-snippets",
   "main": "./lib/package-atom-snippets",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Atom snippets for package.json",
   "keywords": [
     "package",
