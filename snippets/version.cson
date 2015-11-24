@@ -1,4 +1,4 @@
 '.source.json':
     'package.json':
         'prefix':'package version'
-        'body': '"version":"${1:}"'
+        'body': '"version":"${1:}",'
