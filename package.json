@@ -1,4 +1,5 @@
 {
+
   "name": "package-atom-snippets",
   "main": "./lib/package-atom-snippets",
   "version": "0.1.3",
