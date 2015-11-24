@@ -2,7 +2,7 @@
   'package.json':
     'prefix':'package keywords'
     "body": """
-    "keywods":[
-        "${1:value}""
+    "keywords":[
+        "${1:value}"
     ]
     """
