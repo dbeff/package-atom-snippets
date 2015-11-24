@@ -1,4 +1,4 @@
-"package.js":
-  "package snippets":
-    "prefix": "name"
-    "body": "\"name\"":${1:\"\"}"
+'.source.scss':
+  'package.json':
+    'prefix':'name'
+    'body': '"name":${1:""}'
