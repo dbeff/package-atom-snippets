@@ -1,4 +1,4 @@
-'.source.js':
+'package.json':
   'package.json':
     'prefix':'name'
     'body': '"name":${1:""}'
