@@ -1,0 +1,4 @@
+".source.scss":
+  "package snippets":
+    "prefix": "name"
+    "body": "\"name\"":${1:\"\"}"

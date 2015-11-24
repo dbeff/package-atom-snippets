@@ -1,0 +1,18 @@
+{
+  "name": "package-atom-snippets",
+  "main": "./lib/package-atom-snippets",
+  "version": "0.4.1",
+  "description": "Atom snippets for package.json",
+  "keywords": [
+    "package",
+    "atom",
+    "snippet",
+    "snippets"
+  ],
+  "repository": "https://github.com/dbeff/package-atom-snippets",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
